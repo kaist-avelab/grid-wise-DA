@@ -118,7 +118,7 @@ The Grid-Wise DA benchmark is contributed by [Christofel Rio Goenawan](https://a
 
 We thank the maintainers of the following projects that enable us to develop `Grid-Wise DA`:
 [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) by MMLAB, [`TuRoad`](https://github.com/Turoad/lanedet) bu TuZheng.
-['K-Lane`](https://github.com/kaist-avelab/K-Lane) by Dong Hee.
+[`K-Lane`](https://github.com/kaist-avelab/K-Lane) by Dong-Hee.
 
 This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2021R1A2C3008370).
 
@@ -126,5 +126,14 @@ This work was supported by the National Research Foundation of Korea (NRF) grant
 
 If you find this work is useful for your research, please consider citing:
 ```
-[ To be Published in Remote Sensing Journal 2024]
+@article{goenawan2024see,
+  title={See the Unseen: Grid-Wise Drivable Area Detection Dataset and Network Using LiDAR},
+  author={Goenawan, Christofel Rio and Paek, Dong-Hee and Kong, Seung-Hyun},
+  journal={Remote Sensing},
+  volume={16},
+  number={20},
+  pages={3777},
+  year={2024},
+  doi={10.3390/rs16203777}
+}
 ```
