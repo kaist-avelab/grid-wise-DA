@@ -1,4 +1,4 @@
-## Grid-Wise Drivable Area (DA) Detection using LiDAR for Autonomous Vehicle
+# Grid-Wise Drivable Area (DA) Detection using LiDAR
 
 `Grid-Wise DA Repository` (provided by [`AVELab`](http://ave.kaist.ac.kr/)) is the open LiDAR Drivable Area (DA) detection frameworks that provides a open-source big-scale dataset with wide range of driving scenarios in an urban environment. This tools also provide Drivable Area Detection using LiDAR called **Grid-DATrNet** first grid-wise DA deection using LiDAR leveraging attention mechanism through Transformer.
 
