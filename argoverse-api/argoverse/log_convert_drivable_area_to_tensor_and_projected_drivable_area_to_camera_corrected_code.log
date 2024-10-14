@@ -1,0 +1,165 @@
+Number of Log List is : 65
+Making BEV tensor for Log Argoverse Dataset : 0
+Sum of drivable area is : 79158
+Succes creating BEV drivable area label log 0 frame number : 0 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272019351000.pickle
+-------------------------------------------
+Sum of drivable area is : 859254
+Success creating cemera drivable area projection label log 0 frame number 0 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272019351000.npy
+---------------------------------------------
+Sum of drivable area is : 79743
+Succes creating BEV drivable area label log 0 frame number : 1 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272119547000.pickle
+-------------------------------------------
+Sum of drivable area is : 849469
+Success creating cemera drivable area projection label log 0 frame number 1 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272119547000.npy
+---------------------------------------------
+Sum of drivable area is : 79706
+Succes creating BEV drivable area label log 0 frame number : 2 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272219744000.pickle
+-------------------------------------------
+Sum of drivable area is : 839541
+Success creating cemera drivable area projection label log 0 frame number 2 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272219744000.npy
+---------------------------------------------
+Sum of drivable area is : 80217
+Succes creating BEV drivable area label log 0 frame number : 3 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272319940000.pickle
+-------------------------------------------
+Sum of drivable area is : 834460
+Success creating cemera drivable area projection label log 0 frame number 3 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272319940000.npy
+---------------------------------------------
+Sum of drivable area is : 80238
+Succes creating BEV drivable area label log 0 frame number : 4 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272420137000.pickle
+-------------------------------------------
+Sum of drivable area is : 823312
+Success creating cemera drivable area projection label log 0 frame number 4 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272420137000.npy
+---------------------------------------------
+Sum of drivable area is : 80690
+Succes creating BEV drivable area label log 0 frame number : 5 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272519669000.pickle
+-------------------------------------------
+Sum of drivable area is : 815857
+Success creating cemera drivable area projection label log 0 frame number 5 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272519669000.npy
+---------------------------------------------
+Sum of drivable area is : 80708
+Succes creating BEV drivable area label log 0 frame number : 6 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272619866000.pickle
+-------------------------------------------
+Sum of drivable area is : 809230
+Success creating cemera drivable area projection label log 0 frame number 6 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272619866000.npy
+---------------------------------------------
+Sum of drivable area is : 81145
+Succes creating BEV drivable area label log 0 frame number : 7 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272720062000.pickle
+-------------------------------------------
+Sum of drivable area is : 798873
+Success creating cemera drivable area projection label log 0 frame number 7 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272720062000.npy
+---------------------------------------------
+Sum of drivable area is : 81159
+Succes creating BEV drivable area label log 0 frame number : 8 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272820259000.pickle
+-------------------------------------------
+Sum of drivable area is : 791442
+Success creating cemera drivable area projection label log 0 frame number 8 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272820259000.npy
+---------------------------------------------
+Sum of drivable area is : 81619
+Succes creating BEV drivable area label log 0 frame number : 9 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974272919791000.pickle
+-------------------------------------------
+Sum of drivable area is : 778585
+Success creating cemera drivable area projection label log 0 frame number 9 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974272919791000.npy
+---------------------------------------------
+Sum of drivable area is : 81624
+Succes creating BEV drivable area label log 0 frame number : 10 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273020386000.pickle
+-------------------------------------------
+Sum of drivable area is : 771788
+Success creating cemera drivable area projection label log 0 frame number 10 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273020386000.npy
+---------------------------------------------
+Sum of drivable area is : 81842
+Succes creating BEV drivable area label log 0 frame number : 11 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273119919000.pickle
+-------------------------------------------
+Sum of drivable area is : 763313
+Success creating cemera drivable area projection label log 0 frame number 11 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273119919000.npy
+---------------------------------------------
+Sum of drivable area is : 81801
+Succes creating BEV drivable area label log 0 frame number : 12 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273220115000.pickle
+-------------------------------------------
+Sum of drivable area is : 758894
+Success creating cemera drivable area projection label log 0 frame number 12 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273220115000.npy
+---------------------------------------------
+Sum of drivable area is : 81920
+Succes creating BEV drivable area label log 0 frame number : 13 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273319648000.pickle
+-------------------------------------------
+Sum of drivable area is : 754541
+Success creating cemera drivable area projection label log 0 frame number 13 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273319648000.npy
+---------------------------------------------
+Sum of drivable area is : 82010
+Succes creating BEV drivable area label log 0 frame number : 14 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273423639000.pickle
+-------------------------------------------
+Sum of drivable area is : 750160
+Success creating cemera drivable area projection label log 0 frame number 14 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273423639000.npy
+---------------------------------------------
+Sum of drivable area is : 81908
+Succes creating BEV drivable area label log 0 frame number : 15 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273519377000.pickle
+-------------------------------------------
+Sum of drivable area is : 749241
+Success creating cemera drivable area projection label log 0 frame number 15 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273519377000.npy
+---------------------------------------------
+Sum of drivable area is : 81944
+Succes creating BEV drivable area label log 0 frame number : 16 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273619574000.pickle
+-------------------------------------------
+Sum of drivable area is : 747088
+Success creating cemera drivable area projection label log 0 frame number 16 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273619574000.npy
+---------------------------------------------
+Sum of drivable area is : 81793
+Succes creating BEV drivable area label log 0 frame number : 17 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273719107000.pickle
+-------------------------------------------
+Sum of drivable area is : 744628
+Success creating cemera drivable area projection label log 0 frame number 17 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273719107000.npy
+---------------------------------------------
+Sum of drivable area is : 81832
+Succes creating BEV drivable area label log 0 frame number : 18 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273819303000.pickle
+-------------------------------------------
+Sum of drivable area is : 735085
+Success creating cemera drivable area projection label log 0 frame number 18 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273819303000.npy
+---------------------------------------------
+Sum of drivable area is : 81671
+Succes creating BEV drivable area label log 0 frame number : 19 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974273919499000.pickle
+-------------------------------------------
+Sum of drivable area is : 735749
+Success creating cemera drivable area projection label log 0 frame number 19 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974273919499000.npy
+---------------------------------------------
+Sum of drivable area is : 81717
+Succes creating BEV drivable area label log 0 frame number : 20 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274019708000.pickle
+-------------------------------------------
+Sum of drivable area is : 739197
+Success creating cemera drivable area projection label log 0 frame number 20 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274019708000.npy
+---------------------------------------------
+Sum of drivable area is : 81530
+Succes creating BEV drivable area label log 0 frame number : 21 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274119904000.pickle
+-------------------------------------------
+Sum of drivable area is : 748604
+Success creating cemera drivable area projection label log 0 frame number 21 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274119904000.npy
+---------------------------------------------
+Sum of drivable area is : 81515
+Succes creating BEV drivable area label log 0 frame number : 22 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274220101000.pickle
+-------------------------------------------
+Sum of drivable area is : 753413
+Success creating cemera drivable area projection label log 0 frame number 22 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274220101000.npy
+---------------------------------------------
+Sum of drivable area is : 81371
+Succes creating BEV drivable area label log 0 frame number : 23 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274320297000.pickle
+-------------------------------------------
+Sum of drivable area is : 756326
+Success creating cemera drivable area projection label log 0 frame number 23 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274320297000.npy
+---------------------------------------------
+Sum of drivable area is : 81202
+Succes creating BEV drivable area label log 0 frame number : 24 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274420494000.pickle
+-------------------------------------------
+Sum of drivable area is : 751384
+Success creating cemera drivable area projection label log 0 frame number 24 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274420494000.npy
+---------------------------------------------
+Sum of drivable area is : 80993
+Succes creating BEV drivable area label log 0 frame number : 25 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274520026000.pickle
+-------------------------------------------
+Sum of drivable area is : 730385
+Success creating cemera drivable area projection label log 0 frame number 25 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274520026000.npy
+---------------------------------------------
+Sum of drivable area is : 80811
+Succes creating BEV drivable area label log 0 frame number : 26 to file : ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/BEV_drivable_area_label/PC_315974274620223000.pickle
+-------------------------------------------
+Sum of drivable area is : 724774
+Success creating cemera drivable area projection label log 0 frame number 26 to file ../../tracking_train1_v1.1/argoverse-tracking/train1//a073e840-6319-3f0b-843e-f6dccdcc7b77/DA_Projection_to_Camera/PC_315974274620223000.npy
+---------------------------------------------
+Sum of drivable area is : 80646
