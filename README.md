@@ -103,9 +103,6 @@ Visualization of result proposed Grid-DATrNet on proposed Argoverse-Grid dataset
 |Grid-DATrNet (PointPillar + Global Attention)|93.40|0.8321|180|<a href="https://drive.google.com/drive/folders/14QHSxbCsUEf0FYZIa3j_uMFcLmMDwQmB?usp=sharing">Link</a>|<a href="https://www.preprints.org/manuscript/202409.1668/v1 ">Link</a>|
 |Grid-DATrNet (PointPillar + MLP Mixer)|91.40|0.8145|110|<a href="https://drive.google.com/drive/folders/14QHSxbCsUEf0FYZIa3j_uMFcLmMDwQmB?usp=sharing">Link</a>|<a href="https://arxiv.org/abs/2210.08745">Link</a>|
 
-## Updates
-* [2022-04-18] v1.0.0 is released along with the K-Lane Dataset. Please check [Getting Started](./docs/KLane.md#Workspace-Arrangement) for the download instruction.
-
 ## License
 `Grid-Wise DA` is released under the Apache-2.0 license.
 
