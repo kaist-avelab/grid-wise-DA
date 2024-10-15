@@ -2,7 +2,7 @@
 
 `Grid-Wise DA Repository` (provided by [`AVELab`](http://ave.kaist.ac.kr/)) is the open LiDAR Drivable Area (DA) detection frameworks that provides a open-source big-scale dataset with wide range of driving scenarios in an urban environment. This tools also provide Drivable Area Detection using LiDAR called **Grid-DATrNet** first grid-wise DA deection using LiDAR leveraging attention mechanism through Transformer.
 
-See our explanation and analysis of grid-wise DA detection on publication : [`See the Unseen : Grid-Wise Drivable Area Detection using LiDAR Dataset and Network`]( https://www.preprints.org/manuscript/202409.1668/v1 ) in Remote Sensing Journal 2024.
+See our explanation and analysis of grid-wise DA detection on publication : [`See the Unseen : Grid-Wise Drivable Area Detection using LiDAR Dataset and Network`]( https://www.mdpi.com/2072-4292/16/20/3777 ) in Remote Sensing Journal 2024.
 
 ![image](./docs/imgs/visualization_of_grid_wise_DA_Detection_using_GridDATrNet.gif)
 
@@ -72,11 +72,18 @@ pip install -r requirements.txt
 ```
 
 # Experiment using Grid-DATrNet
+We proposed novel grid-wise DA detection using attention mechanism through Transformer **Grid-DATrNet**. Architecture of grid-wise DA detection using attention mechanism can be seen as below.
+
+<p align="center">
+  <img src = "./docs/imgs/Architecture_GridDATrNet.png" width="80%">
+</p>
+
+
 Then We can experiment training using proposed Grid-DATrNet by set up the configs file and run the command as below.
 
 1.Set up the dataset training path in config file. Change value `dataset_path` and `dataset_path_val` in line 130 and 131 in config file `/configs/Grid-DATrNet_using_Global_Attention.py` based on the Argoverse 1 training dataset path.
 
-2. Then running the training python script using command as below.
+2.Then running the training python script using command as below.
 
 ```
 sudo python train_gpu_0.py
